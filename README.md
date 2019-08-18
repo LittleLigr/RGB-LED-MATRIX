@@ -1,5 +1,13 @@
 # RGB-LED-MATRIX
 RGB LED matrix with bluetooth control
+Have 7 modes:
+  Snow
+  Rainbow
+  Color noize
+  Running lines
+  Heart
+  Color pulse
+  Music equalizer
 
 You can watch some examples of my project on youtube channel:
 
