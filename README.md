@@ -1,6 +1,6 @@
 # RGB-LED-MATRIX
 RGB LED matrix with bluetooth control</br>
-Have 7 modes:
+Have 7 modes:</br>
   Snow</br>
   Rainbow</br>
   Color noize</br>
