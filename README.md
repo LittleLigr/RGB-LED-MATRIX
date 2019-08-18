@@ -1,5 +1,5 @@
 # RGB-LED-MATRIX
-RGB LED matrix with bluetooth control
+RGB LED matrix with bluetooth control</br>
 Have 7 modes:
   Snow
   Rainbow
